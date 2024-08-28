@@ -140,9 +140,12 @@ footer {
 
 .link-container {
             margin-top: 20px;
-            text-align: center; 
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color:#fff;
         }
-
+        
 .link-container a {
             background-color: #007bff; 
             color: white; 
