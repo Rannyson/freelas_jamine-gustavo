@@ -138,11 +138,6 @@ footer {
     height: auto;
 }
 
-a { 
-        text-decoration: none;
-        background-color: rgb(219, 14, 32);
-        color: red;
-        border: 1px solid blue
-        
- 
+.link-container {
+    margin-top: 20px;
 }
