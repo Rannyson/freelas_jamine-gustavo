@@ -139,5 +139,19 @@ footer {
 }
 
 .link-container {
-    margin-top: 20px;
-}
+            margin-top: 20px;
+            text-align: center; 
+        }
+
+        .link-container a {
+            background-color: #007bff; 
+            color: white; 
+            padding: 10px 20px;
+            text-decoration: none; 
+            border-radius: 5px; 
+            display: inline-block; 
+        }
+
+        .link-container a:hover {
+            background-color: #0056b3; 
+        }
